@@ -11,6 +11,7 @@ yagmail
 
 * 1，需配置浏览器组件（Win环境）
 chromedriver.exe放置在chrome安装目录下，系统环境变量PATH添加chrome目录地址。（chromedriver.exe文件源码根目录下已提供，不必再下载）
+**感谢 @Scorpio-xu 提供注意事项：chrome版本得高于64.0.3282.0**
 
 * 2，发送QQ消息组件
 需保持QQ对话窗口打开，保证句柄与程序中填写一致，具体可查看任务管理器
