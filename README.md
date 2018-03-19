@@ -1,4 +1,4 @@
-# HitNews Python小程序
+# HitNews Python小程序 v1.0
 本程序可以根据网页页面元素持续查询检索信息并给予通知
 
 
