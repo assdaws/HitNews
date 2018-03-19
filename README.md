@@ -25,6 +25,10 @@ chromedriver.exe放置在chrome安装目录下，系统环境变量PATH添加chr
 3. 打开命令行工具（Win下如Powershell），cd到程序根目录。
 4. 输入python .\pipline.py即可自动运行
 
+## 截图展示
+
+![](http://p4j8krxwd.bkt.clouddn.com/15214304447971.jpg)
+
 
 ---
 驰妹QQ:80879464
